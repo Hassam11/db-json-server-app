@@ -1,0 +1,226 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "user": "Polo",
+      "description": "Camisa polo de algodón azulino, perfecta para un look casual y cómodo.",
+      "urlImg": "https://basisperu.com/cdn/shop/products/polohombreazulino.jpg?v=1705507196&width=1445",
+      "price": 20.7,
+      "tags": [
+        {
+          "tagName": "Ropa"
+        }
+      ],
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "user": "Laptop",
+      "description": "Laptop gaming de última generación con potente procesador y tarjeta gráfica dedicada, ideal para gamers y profesionales creativos.",
+      "urlImg": "https://cdnx.jumpseller.com/motics/image/41983488/resize/1800/1800?1699718324",
+      "price": 2300.0,
+      "tags": [
+        {
+          "tagName": "Tecnologia"
+        },
+        {
+          "tagName": "Internet"
+        },
+        {
+          "tagName": "Gamer"
+        }
+      ],
+      "stock": 11
+    },
+    {
+      "id": 3,
+      "user": "Bicicleta",
+      "description": "Bicicleta de montaña roja con diseño aerodinámico y resistente, perfecta para explorar senderos y mantenerse activo.",
+      "urlImg": "https://gbi.pe/wp-content/uploads/2022/04/BICICLETA-MONTALNERA-ROJA-SUPERFLY.jpg",
+      "price": 120.0,
+      "tags": [
+        {
+          "tagName": "Deportivo"
+        },
+        {
+          "tagName": "Saludable"
+        }
+      ],
+      "stock": 10
+    },
+    {
+      "id": 4,
+      "user": "Zapatillas",
+      "description": "Zapatillas deportivas cómodas y duraderas, ideales para correr, hacer ejercicio o simplemente para un estilo casual.",
+      "urlImg": "https://coliseum.vteximg.com.br/arquivos/ids/505079-1000-1000/ZAPATILLA-MUJER-STEVE-MADDEN-POSSESSION-SMW4303-04D_1.jpg?v=638025044243970000",
+      "price": 50.0,
+      "tags": [
+        {
+          "tagName": "Calzado"
+        },
+        {
+          "tagName": "Deportivo"
+        }
+      ],
+      "stock": 15
+    },
+    {
+      "id": 5,
+      "user": "Teléfono",
+      "description": "Teléfono inteligente con cámara de alta resolución, gran rendimiento y diseño elegante, perfecto para estar siempre conectado.",
+      "urlImg": "https://static.wixstatic.com/media/3ba396_13a3cc84d2ce4681a797caed0eff203b~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3ba396_13a3cc84d2ce4681a797caed0eff203b~mv2.png",
+      "price": 500.0,
+      "tags": [
+        {
+          "tagName": "Tecnología"
+        },
+        {
+          "tagName": "Comunicación"
+        }
+      ],
+      "stock": 8
+    },
+    {
+      "id": 6,
+      "user": "Libro",
+      "description": "Libro bestseller que te sumerge en una emocionante aventura llena de misterio y suspense, ideal para los amantes de la lectura.",
+      "urlImg": "https://images.cdn3.buscalibre.com/fit-in/360x360/f7/77/f777283c08d96be96ddea2a86087daee.jpg",
+      "price": 15.0,
+      "tags": [
+        {
+          "tagName": "Cultura"
+        },
+        {
+          "tagName": "Entretenimiento"
+        }
+      ],
+      "stock": 25
+    },
+    {
+      "id": 7,
+      "user": "Gafas de Sol",
+      "description": "Gafas de sol de moda con montura elegante y lentes polarizadas que te protegen de los rayos UV mientras añaden estilo a tu look.",
+      "urlImg": "https://www.montblanc.com/variants/images/1647597276917590/A/w2500.jpg",
+      "price": 30.0,
+      "tags": [
+        {
+          "tagName": "Accesorios"
+        },
+        {
+          "tagName": "Moda"
+        }
+      ],
+      "stock": 12
+    },
+    {
+      "id": 8,
+      "user": "Monitor",
+      "description": "Monitor de alta definición con gran tamaño de pantalla y colores vibrantes, perfecto para gaming, diseño gráfico o entretenimiento multimedia.",
+      "urlImg": "https://www.infotec.com.pe/60795-medium_default/monitor-samsung-27-odyssey-g5-ls27ag550elxpe-gaming-wqhd-2560x1440-165hz-1ms-hdmi-dp.jpg",
+      "price": 2400.0,
+      "tags": [
+        {
+          "tagName": "Tecnología"
+        },
+        {
+          "tagName": "Informática"
+        }
+      ],
+      "stock": 7
+    },
+    {
+      "id": 9,
+      "user": "Balón de Fútbol",
+      "description": "Balón oficial de fútbol con diseño resistente y excelente agarre, perfecto para partidos en el campo o en la playa con amigos.",
+      "urlImg": "https://img.freepik.com/vector-gratis/vector-aislado-balon-futbol-realista-sobre-blanco_1284-41932.jpg?size=338&ext=jpg&ga=GA1.1.117944100.1711584000&semt=ais",
+      "price": 25.0,
+      "tags": [
+        {
+          "tagName": "Deportes"
+        },
+        {
+          "tagName": "Fútbol"
+        }
+      ],
+      "stock": 18
+    },
+    {
+      "id": 10,
+      "user": "Mochila",
+      "description": "Mochila moderna y espaciosa con múltiples compartimentos, ideal para llevar tus pertenencias de forma segura y cómoda en tus aventuras diarias.",
+      "urlImg": "https://portape.vtexassets.com/arquivos/ids/162318/0000010496--2-.jpg?v=638089668778970000",
+      "price": 40.0,
+      "tags": [
+        {
+          "tagName": "Accesorios"
+        },
+        {
+          "tagName": "Moda"
+        }
+      ],
+      "stock": 20
+    },
+    {
+      "id": 11,
+      "user": "Reloj",
+      "description": "Reloj elegante y sofisticado con diseño clásico y funcionalidades modernas, perfecto para complementar tu estilo en cualquier ocasión.",
+      "urlImg": "https://http2.mlstatic.com/D_NQ_NP_961931-MLM51974587322_102022-O.webp",
+      "price": 80.0,
+      "tags": [
+        {
+          "tagName": "Accesorios"
+        },
+        {
+          "tagName": "Moda"
+        }
+      ],
+      "stock": 14
+    },
+    {
+      "id": 12,
+      "user": "Cámara Fotográfica",
+      "description": "Cámara fotográfica profesional con sensor de alta resolución y opciones avanzadas de ajuste, ideal para capturar momentos inolvidables con la mejor calidad.",
+      "urlImg": "https://falabella.scene7.com/is/image/FalabellaPE/16699359_1?wid=800&hei=800&qlt=70",
+      "price": 600.0,
+      "tags": [
+        {
+          "tagName": "Tecnología"
+        },
+        {
+          "tagName": "Fotografía"
+        }
+      ],
+      "stock": 5
+    },
+    {
+      "id": 13,
+      "user": "Gorra",
+      "description": "Gorra de béisbol ajustable con diseño clásico y materiales de alta calidad, perfecta para protegerte del sol con estilo.",
+      "urlImg": "https://neweracap.pe/106953-superlarge_default/gorra-new-york-yankees-9forty-navy.jpg",
+      "price": 12.0,
+      "tags": [
+        {
+          "tagName": "Accesorios"
+        },
+        {
+          "tagName": "Moda"
+        }
+      ],
+      "stock": 30
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "user": "Hassam",
+      "contraseña": "hassam",
+      "imgAvatar": "https://ih1.redbubble.net/image.2896197394.8581/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
+    },
+    {
+      "id": 1,
+      "user": "Admin",
+      "contraseña": "admin",
+      "imgAvatar": "https://static.vecteezy.com/system/resources/thumbnails/005/005/791/small/user-icon-in-trendy-flat-style-isolated-on-grey-background-user-symbol-for-your-web-site-design-logo-app-ui-illustration-eps10-free-vector.jpg"
+    }
+  ]
+}
